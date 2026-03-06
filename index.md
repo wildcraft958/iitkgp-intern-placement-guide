@@ -606,7 +606,7 @@ These roadmaps integrate your time‑based plans with realistic expectations giv
 
 ## 9. Holistic Skill Development Pyramid
 
-<div class="mermaid">
+<div class="mermaid" markdown="0">
 graph TD
     subgraph " "
     A["<b>Role-Specific Expertise (20%)</b><br/>ML/DL/RL/Research, System Design,<br/>MLOps, Quant Math, Finance/Domain"]
@@ -848,25 +848,3 @@ The objective is not to memorize every solution, but to **build the thinking mus
 
 
 ---
-
-<button id="dark-mode-toggle" title="Toggle Dark Mode">🌓</button>
-
-<script>
-  const toggle = document.getElementById('dark-mode-toggle');
-  
-  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const storedPref = localStorage.getItem('dark-mode');
-  
-  if (storedPref === 'enabled' || (storedPref === null && prefersDark)) {
-    document.body.classList.add('dark-mode');
-  }
-
-  toggle.addEventListener('click', () => {
-    document.body.classList.toggle('dark-mode');
-    if (document.body.classList.contains('dark-mode')) {
-      localStorage.setItem('dark-mode', 'enabled');
-    } else {
-      localStorage.setItem('dark-mode', 'disabled');
-    }
-  });
-</script>
