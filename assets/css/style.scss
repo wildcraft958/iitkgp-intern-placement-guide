@@ -1,28 +1,21 @@
----
----
-@import "{{ site.theme }}";
-
-
-/* Adaptive & Responsive Width Improvements */
-.main-content {
-  width: calc(100% - 40px);
+/* Refining Responsive Width */
+.page-header, .main-content {
+  width: calc(100% - clamp(20px, 5vw, 80px));
   max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem clamp(1rem, 5vw, 4rem);
+  box-sizing: border-box;
 }
 
-
-@media screen and (max-width: 1024px) {
-  .main-content {
-    padding: 2rem;
-  }
+.main-content {
+  padding: 2rem 0; /* Horizontal padding handled by width calculation above */
 }
 
 @media screen and (max-width: 640px) {
-  .main-content {
-    padding: 1.5rem 1rem;
+  .page-header, .main-content {
+    width: calc(100% - 30px);
   }
 }
+
 
 /* Premium Dark Mode Styling (TokyoNight Inspired) */
 body.dark-mode {
