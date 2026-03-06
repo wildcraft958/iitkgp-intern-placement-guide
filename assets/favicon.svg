@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2335" />
+      <stop offset="100%" stop-color="#16161e" />
+    </linearGradient>
+    <linearGradient id="primary" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9ece6a" />
+      <stop offset="100%" stop-color="#73daca" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="120" height="120" rx="24" fill="url(#bg)" />
+  
+  <!-- Stylized minimal graph pointing up -->
+  <path d="M 30,85 L 50,60 L 70,70 L 95,35" fill="none" stroke="url(#primary)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="95" cy="35" r="8" fill="#bb9af7" />
+  
+  <!-- Subtle grid dots -->
+  <circle cx="30" cy="85" r="4" fill="#7aa2f7" />
+  <circle cx="50" cy="60" r="4" fill="#7aa2f7" />
+  <circle cx="70" cy="70" r="4" fill="#7aa2f7" />
+</svg>

@@ -713,17 +713,28 @@ The meta‑rule is: **use community feedback to choose 1–2 primary resources p
 
 By two weeks before your first interview:
 
-- [ ] Can solve interview‑level DSA problems in 30–40 minutes at your target tier.
-- [ ] SQL queries for typical analytics / SWE prompts are near bug‑free in first attempt.
-- [ ] Can explain at least 1–2 medium‑complexity systems end‑to‑end (design + trade‑offs).
-- [ ] Comfort with p‑values, confidence intervals, hypothesis tests if ML/DA/Quant oriented.
-- [ ] Have completed at least 10 mocks and incorporated feedback.
-- [ ] Can explain your projects’ design decisions and trade‑offs clearly.
-- [ ] Know the basics of tech stacks and products for ~10 target companies.
-- [ ] Have 5–10 STAR‑formatted behavioral stories ready.
-- [ ] Sleep schedule aligned with interview timings; basic physical and mental health managed.
+- Can solve interview‑level DSA problems in 30–40 minutes at your target tier.
+- SQL queries for typical analytics / SWE prompts are near bug‑free in first attempt.
+- Can explain at least 1–2 medium‑complexity systems end‑to‑end (design + trade‑offs).
+- Comfort with p‑values, confidence intervals, hypothesis tests if ML/DA/Quant oriented.
+- Have completed at least 10 mocks and incorporated feedback.
+- Can explain your projects’ design decisions and trade‑offs clearly.
+- Know the basics of tech stacks and products for ~10 target companies.
+- Have 5–10 STAR‑formatted behavioral stories ready.
+- Sleep schedule aligned with interview timings; basic physical and mental health managed.
 
 The objective is not to memorize every solution, but to **build the thinking muscle** so that new problems and case prompts feel familiar rather than alien.
+
+---
+
+## 13. About the Authors & Initiative
+
+This comprehensive placement guide is an initiative taken by:
+- **Animesh Raj**, 3rd Year UG, Instrumentation Engineering (Dept of EE)
+- **Monika Kumari**, 3rd Year UG, Mining Engineering
+
+**Why we built this:**  
+Navigating placements at IIT Kharagpur can be incredibly overwhelming, with fragmented information scattered across seniors, random group chats, and outdated websites. We realized that our campus community—especially the juniors—needed a single, reliable, and continuously updated source of truth. This guide is built to democratize placement preparation so that every KGPian, regardless of their branch or immediate peer group, has a clear roadmap to success. 
 
 ---
 
