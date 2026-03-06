@@ -606,7 +606,7 @@ These roadmaps integrate your time‑based plans with realistic expectations giv
 
 ## 9. Holistic Skill Development Pyramid
 
-```mermaid
+<div class="mermaid">
 graph TD
     subgraph " "
     A["<b>Role-Specific Expertise (20%)</b><br/>ML/DL/RL/Research, System Design,<br/>MLOps, Quant Math, Finance/Domain"]
@@ -620,7 +620,7 @@ graph TD
     style A fill:#bb9af7,stroke:#3b4261,color:#fff
     style B fill:#7aa2f7,stroke:#3b4261,color:#fff
     style C fill:#9ece6a,stroke:#3b4261,color:#fff
-```
+</div>
 
 The key idea is that **role‑specific expertise sits on top of solid fundamentals**; most KGP recruiters test the core layers far more than the top 20% except for highly specialized roles.
 

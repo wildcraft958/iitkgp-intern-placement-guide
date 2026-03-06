@@ -1,20 +1,32 @@
+---
+---
+@import "{{ site.theme }}";
+
 /* Refining Responsive Width */
-.page-header, .main-content {
-  width: calc(100% - clamp(20px, 5vw, 80px));
+.main-content {
   max-width: 1200px;
   margin: 0 auto;
-  box-sizing: border-box;
+  padding: 2rem clamp(1rem, 5vw, 4rem);
 }
 
-.main-content {
-  padding: 2rem 0; /* Horizontal padding handled by width calculation above */
+.main-content table {
+  display: table !important;
+  width: 100% !important;
+  overflow-x: visible !important;
+}
+
+@media screen and (max-width: 1024px) {
+  .main-content {
+    padding: 2rem;
+  }
 }
 
 @media screen and (max-width: 640px) {
-  .page-header, .main-content {
-    width: calc(100% - 30px);
+  .main-content {
+    padding: 1.5rem 1rem;
   }
 }
+
 
 
 /* Premium Dark Mode Styling (TokyoNight Inspired) */
