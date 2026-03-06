@@ -2,6 +2,26 @@
 ---
 @import "{{ site.theme }}";
 
+
+/* Adaptive & Responsive Width Improvements */
+.main-content {
+  max-width: 1200px; /* Increased from default for better readability on large screens */
+  margin: 0 auto;
+  padding: 2rem 4rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .main-content {
+    padding: 2rem;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .main-content {
+    padding: 1.5rem 1rem;
+  }
+}
+
 /* Premium Dark Mode Styling (TokyoNight Inspired) */
 body.dark-mode {
   background-color: #1a1b26;

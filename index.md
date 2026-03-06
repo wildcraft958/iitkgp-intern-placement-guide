@@ -606,24 +606,9 @@ These roadmaps integrate your time‑based plans with realistic expectations giv
 
 ## 9. Holistic Skill Development Pyramid
 
-```
-                    Role-Specific Expertise (20%)
-                   /                        \
-             ML/DL/RL/Research        System Design
-                 MLOps                  Quant Math
-                                      Finance/Domain
-
-            Core Competencies (60%)
-          /        |        |        \
-       DSA        SQL    Aptitude   PnS
-      Tier 2+     Tier 2+          (Prob & Stats)
-
-        Foundation Skills (20%)
-      /          |          \
-    Math       Logic      Communication
-    Problem-    Critical   Clarity &
-    solving     thinking   storytelling
-```
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="assets/skill_pyramid.png" alt="9. Holistic Skill Development Pyramid" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+</div>
 
 The key idea is that **role‑specific expertise sits on top of solid fundamentals**; most KGP recruiters test the core layers far more than the top 20% except for highly specialized roles.
 
@@ -726,7 +711,24 @@ By two weeks before your first interview:
 - [ ] Have 5–10 STAR‑formatted behavioral stories ready.
 - [ ] Sleep schedule aligned with interview timings; basic physical and mental health managed.
 
-The objective is not to memorize every solution, but to **build the thinking muscle** so that new problems and case prompts feel familiar rather than alien.
+The objective is not to memorize every solution, but to **build ## 13. Specialized Role Deep-Dives (Coming Soon)
+
+We are building detailed, branch-specific and role-specific guides including curated resources, past interview experiences, and mock schedules for:
+
+*   [🚀 Software Engineering (SWE)](javascript:void(0)) — *Coming Soon*
+*   [🧠 AI / Machine Learning](javascript:void(0)) — *Coming Soon*
+*   [📊 Data Analytics & Science](javascript:void(0)) — *Coming Soon*
+*   [💼 Management Consulting & BA](javascript:void(0)) — *Coming Soon*
+*   [💡 Product Management](javascript:void(0)) — *Coming Soon*
+*   [⚙️ Core Engineering (Mech/Elec/Civil/etc)](javascript:void(0)) — *Coming Soon*
+
+## 14. Support the Community
+
+This guide is a living document. We need your help to make it the definitive resource for every KGPian. 
+
+> [!IMPORTANT]
+> **Have materials or experience to share?**
+> Please [Open an Issue](https://github.com/wildcraft958/iitkgp-intern-placement-guide/issues) on GitHub to contribute resources, report data corrections, or request new features. Let's build this together!
 
 ---
 
