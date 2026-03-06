@@ -1,0 +1,105 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Premium Dark Mode Styling (TokyoNight Inspired) */
+body.dark-mode {
+  background-color: #1a1b26;
+  color: #c0caf5;
+
+  .page-header {
+    background-color: #16161e;
+    background-image: linear-gradient(120deg, #1f2335, #292e42);
+    border-bottom: 2px solid #3b4261;
+  }
+
+  .main-content {
+    h1, h2, h3, h4, h5, h6 {
+      color: #9ece6a;
+    }
+    
+    a {
+      color: #7aa2f7;
+    }
+    a:hover {
+      color: #2ac3de;
+    }
+    
+    table {
+      th, td {
+        border-color: #3b4261;
+        color: #a9b1d6;
+      }
+      th {
+        background-color: #1f2335;
+        color: #bb9af7;
+      }
+      tr:nth-child(2n) {
+        background-color: #24283b;
+      }
+      tr:nth-child(2n+1) {
+        background-color: #1a1b26;
+      }
+    }
+    
+    blockquote {
+      color: #7dcfff;
+      border-left-color: #bb9af7;
+    }
+
+    code {
+      background-color: #1f2335;
+      color: #e0af68;
+      border: 1px solid #3b4261;
+    }
+
+    pre {
+      background-color: #16161e;
+      border-color: #3b4261;
+      code {
+        background-color: transparent;
+        border: none;
+      }
+    }
+  }
+}
+
+#dark-mode-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: rgba(255,255,255,0.9);
+  color: #333;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1000;
+  font-size: 24px;
+  backdrop-filter: blur(8px);
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+#dark-mode-toggle:hover {
+  transform: scale(1.15) rotate(10deg);
+  background-color: #ffffff;
+}
+
+body.dark-mode #dark-mode-toggle {
+  background-color: rgba(31,35,53,0.9);
+  color: #fff;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+}
+
+body.dark-mode #dark-mode-toggle:hover {
+  background-color: rgba(41,46,66,1);
+}
+
+.ref-anchor {
+    scroll-margin-top: 50px;
+}

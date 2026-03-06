@@ -8,53 +8,53 @@ title: IIT Kharagpur Placement Framework
 * TOC
 {:toc}
 
-This guide systematizes the IIT Kharagpur placement landscape by mapping skill tiers, role expectations, and realistic CGPA / package bands, updated with recent (2022–26) statistics where available.[^1][^2][^3][^4]
-Numeric success rates and per‑profile package ranges are indicative for planning, not official CDC data; where exact numbers exist (offers, median packages, branch‑wise placement), they are explicitly cited.[^5][^2][^1]
+This guide systematizes the IIT Kharagpur placement landscape by mapping skill tiers, role expectations, and realistic CGPA / package bands, updated with recent (2022–26) statistics where available.<sup>[<a href="#ref-1">1</a>, <a href="#ref-2">2</a>, <a href="#ref-3">3</a>, <a href="#ref-4">4</a>]</sup>
+Numeric success rates and per‑profile package ranges are indicative for planning, not official CDC data; where exact numbers exist (offers, median packages, branch‑wise placement), they are explicitly cited.<sup>[<a href="#ref-5">5</a>, <a href="#ref-2">2</a>, <a href="#ref-1">1</a>]</sup>
 
 
 ## 1. Recent Placement Snapshot (IIT Kharagpur)
 
 ### 1.1 Institute‑level highlights (2022–26)
 
-- In the 2024 placement season, 1,747 students were placed across B.Tech, Dual Degree, and integrated MSc programs, reflecting strong recruiter demand across software, analytics, core engineering, and finance roles.[^2]
-- NIRF‑reported median package for 4‑year UG programs at IIT Kharagpur rose from about ₹18.75 LPA in 2022 to around ₹24 LPA in 2023, indicating a steady upward trend in core IIT Kharagpur salaries.[^4][^2]
-- In the 2025 season, media reports note around 1,000 offers within the first three days, with a highest package near ₹2.14 crore and nine students crossing the ₹1 crore mark, showing continued demand for top performers.[^3][^2]
-- In the 2025–26 Phase‑1 drive, reports mention roughly 1,501 offers (including ~457 PPOs) and a highest CTC of about ₹2.44 crore, continuing the trend of very high outliers at the top end.[^1]
+- In the 2024 placement season, 1,747 students were placed across B.Tech, Dual Degree, and integrated MSc programs, reflecting strong recruiter demand across software, analytics, core engineering, and finance roles.<sup>[<a href="#ref-2">2</a>]</sup>
+- NIRF‑reported median package for 4‑year UG programs at IIT Kharagpur rose from about ₹18.75 LPA in 2022 to around ₹24 LPA in 2023, indicating a steady upward trend in core IIT Kharagpur salaries.<sup>[<a href="#ref-4">4</a>, <a href="#ref-2">2</a>]</sup>
+- In the 2025 season, media reports note around 1,000 offers within the first three days, with a highest package near ₹2.14 crore and nine students crossing the ₹1 crore mark, showing continued demand for top performers.<sup>[<a href="#ref-3">3</a>, <a href="#ref-2">2</a>]</sup>
+- In the 2025–26 Phase‑1 drive, reports mention roughly 1,501 offers (including ~457 PPOs) and a highest CTC of about ₹2.44 crore, continuing the trend of very high outliers at the top end.<sup>[<a href="#ref-1">1</a>]</sup>
 
 ### 1.2 Branch‑wise placement reality check (2023–24, unofficial)
 
-Unofficial branch‑wise stats discussed by students for the 2023–24 season suggest the following approximate placement percentages (students with at least one offer) for core B.Tech branches:[^5]
+Unofficial branch‑wise stats discussed by students for the 2023–24 season suggest the following approximate placement percentages (students with at least one offer) for core B.Tech branches:<sup>[<a href="#ref-5">5</a>]</sup>
 
 | Branch (B.Tech) | Approx. placed share |
 |-----------------|----------------------|
-| Computer Science | ~92%[^5] |
-| Electronics & Electrical | ~87%[^5] |
-| Instrumentation | ~84%[^5] |
-| Electrical | ~73%[^5] |
-| Mechanical | ~84%[^5] |
-| Metallurgy & Materials | ~76%[^5] |
-| Civil | ~52%[^5] |
-| Chemical | ~73%[^5] |
-| Aerospace | ~62%[^5] |
+| Computer Science | ~92%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Electronics & Electrical | ~87%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Instrumentation | ~84%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Electrical | ~73%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Mechanical | ~84%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Metallurgy & Materials | ~76%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Civil | ~52%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Chemical | ~73%<sup>[<a href="#ref-5">5</a>]</sup> |
+| Aerospace | ~62%<sup>[<a href="#ref-5">5</a>]</sup> |
 
-These numbers are from an informal student‑shared summary of the official report and are best treated as order‑of‑magnitude indicators rather than exact official statistics.[^5]
+These numbers are from an informal student‑shared summary of the official report and are best treated as order‑of‑magnitude indicators rather than exact official statistics.<sup>[<a href="#ref-5">5</a>]</sup>
 
 
 ## 2. CGPA and Eligibility at IIT Kharagpur
 
 ### 2.1 Degree categories and CGPA thresholds (academic)
 
-- From the 2025–26 academic cycle onward, IIT Kharagpur awards a **B.Tech (Honours)** degree to students with a final CGPA of **6.0 or above**, while students with **5.0–5.9 CGPA** who complete all required courses receive a **B.Tech (Pass)** degree.[^6]
-- Earlier, only B.Tech (Honours) existed, with 6.0 as the minimum graduating CGPA; students below 6.0 had to improve CGPA via re‑exams to graduate at all.[^6]
+- From the 2025–26 academic cycle onward, IIT Kharagpur awards a **B.Tech (Honours)** degree to students with a final CGPA of **6.0 or above**, while students with **5.0–5.9 CGPA** who complete all required courses receive a **B.Tech (Pass)** degree.<sup>[<a href="#ref-6">6</a>]</sup>
+- Earlier, only B.Tech (Honours) existed, with 6.0 as the minimum graduating CGPA; students below 6.0 had to improve CGPA via re‑exams to graduate at all.<sup>[<a href="#ref-6">6</a>]</sup>
 
 These reforms primarily affect degree nomenclature and stress levels, but for placements, companies still care mainly about your **current CGPA at the time of shortlisting**.
 
 ### 2.2 Typical CGPA cut‑off patterns for placements
 
-Official company‑wise cut‑offs are not published centrally; however, student discussions and sample JD screenshots across IITs (including IIT Kharagpur) show clear patterns:[^7][^8]
+Official company‑wise cut‑offs are not published centrally; however, student discussions and sample JD screenshots across IITs (including IIT Kharagpur) show clear patterns:<sup>[<a href="#ref-7">7</a>, <a href="#ref-8">8</a>]</sup>
 
-- Many product and analytics recruiters specify **minimum 7.0 CGPA** as eligibility; IBM, for example, commonly lists 7.0+ as a minimum in campus JDs.[^7]
-- KGP students report that with **≈7.0 CGPA, you are eligible for roughly 60–75% of companies**, while **8.0+ opens most software / analytics roles**, and **8.5+ is considered “very safe” for almost all non‑quant roles that come to top IITs.**[^8]
+- Many product and analytics recruiters specify **minimum 7.0 CGPA** as eligibility; IBM, for example, commonly lists 7.0+ as a minimum in campus JDs.<sup>[<a href="#ref-7">7</a>]</sup>
+- KGP students report that with **≈7.0 CGPA, you are eligible for roughly 60–75% of companies**, while **8.0+ opens most software / analytics roles**, and **8.5+ is considered “very safe” for almost all non‑quant roles that come to top IITs.**<sup>[<a href="#ref-8">8</a>]</sup>
 - A small subset of high‑end **quant / HFT / research labs** either:
   - demand **very high CGPA (8.5–9.0+)**, or
   - shortlist only the top X students in each branch, effectively imposing a higher CGPA bar.
@@ -68,10 +68,10 @@ A pragmatic way to think about CGPA bands for IIT Kharagpur placements (especial
 | CGPA band | What it usually means on campus (KGP‑oriented) |
 |-----------|-----------------------------------------------|
 | **9.0+** | Eligible for almost every role, including most quant, top product, research, and elite intern conversions; very strong signal for CDC shortlists (but still not sufficient without skills). |
-| **8.0–8.9** | Comfortable for most software, ML, analytics, PM‑like, BA, DevOps/SRE roles; most Tier‑1 and Tier‑2 recruiters open to you, barring a few quant / research exceptions.[^8] |
-| **7.0–7.9** | Solid but not elite; you may miss some top‑tier/quant roles, but will be eligible for a majority of SWE, DA, QA, BA, many ML roles, and a good number of core companies.[^8] |
+| **8.0–8.9** | Comfortable for most software, ML, analytics, PM‑like, BA, DevOps/SRE roles; most Tier‑1 and Tier‑2 recruiters open to you, barring a few quant / research exceptions.<sup>[<a href="#ref-8">8</a>]</sup> |
+| **7.0–7.9** | Solid but not elite; you may miss some top‑tier/quant roles, but will be eligible for a majority of SWE, DA, QA, BA, many ML roles, and a good number of core companies.<sup>[<a href="#ref-8">8</a>]</sup> |
 | **6.0–6.9** | Meets degree‑honours requirement; some product / analytics / core roles and a subset of software roles will still open, but Tier‑1 product and quant roles will often be closed; you will rely more on skill, projects, and off‑campus options. |
-| **5.0–5.9** | B.Tech (Pass) band from 2025–26 onward; on‑campus opportunities will be more limited and heavily profile‑specific; off‑campus hustling and strong project / internship portfolio become critical.[^6] |
+| **5.0–5.9** | B.Tech (Pass) band from 2025–26 onward; on‑campus opportunities will be more limited and heavily profile‑specific; off‑campus hustling and strong project / internship portfolio become critical.<sup>[<a href="#ref-6">6</a>]</sup> |
 
 ### 2.4 Suggested target CGPA by profile (KGP context)
 
@@ -287,8 +287,8 @@ Below, "Success rate" is **relative/qualitative**, not official CDC data; role�
 - Round 4: Behavioral + culture fit (30 minutes).
 
 **Key recruiters (illustrative, vary by year)**:
-- Large product/big tech: Amazon, Microsoft, Google (select years), Apple (limited), high‑scale Indian product companies.[^9][^2]
-- Fintech/product: Flipkart, Goldman Sachs, Paytm, Swiggy, Meesho and other startups.[^9][^2]
+- Large product/big tech: Amazon, Microsoft, Google (select years), Apple (limited), high‑scale Indian product companies.<sup>[<a href="#ref-9">9</a>, <a href="#ref-2">2</a>]</sup>
+- Fintech/product: Flipkart, Goldman Sachs, Paytm, Swiggy, Meesho and other startups.<sup>[<a href="#ref-9">9</a>, <a href="#ref-2">2</a>]</sup>
 
 **CF/CP expectation**: Codeforces 1700–2000 is a good target for strong SWE interviews.
 
@@ -545,33 +545,33 @@ This matrix keeps your original intent but replaces pseudo‑precise success rat
 
 | Profile | DSA Level | SQL Level | System Design | Statistics | Programming Importance | Soft Skills Importance | CF Rating Target | Typical Package Band (KGP / top IITs) |
 |--------|-----------|-----------|---------------|-----------|------------------------|------------------------|------------------|---------------------------------------|
-| SWE | Tier 3 | Tier 2 | Tier 2 | Tier 1 | Critical | High | 1700–2000 | ~₹22–28 LPA core band; very top offers much higher in rare cases.[^2][^4] |
-| System Design SWE | Tier 3 | Tier 3 | Tier 3 | Tier 1 | High | High | 1800–2100 | Often ₹26–35 LPA+ for strong roles; some outliers above.[^2][^4] |
-| ML Engineer | Tier 2–3 | Tier 2 | Tier 2 | Tier 2 | Critical | Medium | 1700–2000 | ~₹24–32 LPA typical for strong ML/DS roles at top IITs.[^2][^4] |
-| ML Researcher | Tier 2–3 | Tier 1 | Tier 1 | Tier 2 | Critical | Medium | 1600–1900 | ~₹26–35 LPA equivalent value (including research stipends) in top offers.[^10][^4] |
-| Data Analyst | Tier 1–2 | Tier 2–3 | Tier 1 | Tier 2–3 | Medium | High | 1500–1800 | ~₹18–24 LPA for analytics‑heavy roles.[^11][^4] |
-| Product Manager | Tier 1 | Tier 1–2 | Tier 1 | Tier 1 | Low | Critical | 1200–1400 | ~₹20–28 LPA; equity/bonus can be significant.[^10][^11] |
-| Business Analyst | Tier 1 | Tier 1–2 | Tier 1 | Tier 1 | Medium | Critical | 1300–1500 | ~₹16–22 LPA typical consulting/BA band.[^11] |
-| Quant Analyst | Tier 3 | Tier 2 | Tier 2 | Tier 3 | Critical | Medium | 1800–2100 | Often ₹25–40 LPA+ with large upside via bonuses at HFT/quant firms.[^2][^4] |
-| QA Engineer | Tier 1–2 | Tier 2 | Tier 1 | Tier 1 | High | Medium | 1400–1600 | ~₹18–24 LPA typical; some product firms higher.[^11] |
-| DevOps/SRE | Tier 1–2 | Tier 1–2 | Tier 3 | Tier 1 | High | Medium | 1500–1800 | ~₹24–32 LPA for solid infra roles.[^2][^4] |
+| SWE | Tier 3 | Tier 2 | Tier 2 | Tier 1 | Critical | High | 1700–2000 | ~₹22–28 LPA core band; very top offers much higher in rare cases.<sup>[<a href="#ref-2">2</a>, <a href="#ref-4">4</a>]</sup> |
+| System Design SWE | Tier 3 | Tier 3 | Tier 3 | Tier 1 | High | High | 1800–2100 | Often ₹26–35 LPA+ for strong roles; some outliers above.<sup>[<a href="#ref-2">2</a>, <a href="#ref-4">4</a>]</sup> |
+| ML Engineer | Tier 2–3 | Tier 2 | Tier 2 | Tier 2 | Critical | Medium | 1700–2000 | ~₹24–32 LPA typical for strong ML/DS roles at top IITs.<sup>[<a href="#ref-2">2</a>, <a href="#ref-4">4</a>]</sup> |
+| ML Researcher | Tier 2–3 | Tier 1 | Tier 1 | Tier 2 | Critical | Medium | 1600–1900 | ~₹26–35 LPA equivalent value (including research stipends) in top offers.<sup>[<a href="#ref-10">10</a>, <a href="#ref-4">4</a>]</sup> |
+| Data Analyst | Tier 1–2 | Tier 2–3 | Tier 1 | Tier 2–3 | Medium | High | 1500–1800 | ~₹18–24 LPA for analytics‑heavy roles.<sup>[<a href="#ref-11">11</a>, <a href="#ref-4">4</a>]</sup> |
+| Product Manager | Tier 1 | Tier 1–2 | Tier 1 | Tier 1 | Low | Critical | 1200–1400 | ~₹20–28 LPA; equity/bonus can be significant.<sup>[<a href="#ref-10">10</a>, <a href="#ref-11">11</a>]</sup> |
+| Business Analyst | Tier 1 | Tier 1–2 | Tier 1 | Tier 1 | Medium | Critical | 1300–1500 | ~₹16–22 LPA typical consulting/BA band.<sup>[<a href="#ref-11">11</a>]</sup> |
+| Quant Analyst | Tier 3 | Tier 2 | Tier 2 | Tier 3 | Critical | Medium | 1800–2100 | Often ₹25–40 LPA+ with large upside via bonuses at HFT/quant firms.<sup>[<a href="#ref-2">2</a>, <a href="#ref-4">4</a>]</sup> |
+| QA Engineer | Tier 1–2 | Tier 2 | Tier 1 | Tier 1 | High | Medium | 1400–1600 | ~₹18–24 LPA typical; some product firms higher.<sup>[<a href="#ref-11">11</a>]</sup> |
+| DevOps/SRE | Tier 1–2 | Tier 1–2 | Tier 3 | Tier 1 | High | Medium | 1500–1800 | ~₹24–32 LPA for solid infra roles.<sup>[<a href="#ref-2">2</a>, <a href="#ref-4">4</a>]</sup> |
 
 
 ## 7. KGP‑Specific Trend Insights
 
 ### 7.1 Offers and salary bands
 
-- IIT Kharagpur’s highest packages in recent years have frequently exceeded **₹2 crore CTC**, though these are rare, specialized offers (often quant/HFT or top international roles).[^2][^3][^4][^1]
-- The **median package for 4‑year UG** programs has been in the high‑teens to mid‑20s LPA (₹18–24 LPA) in 2022–23, which aligns with your core "₹20–28 LPA" bands for mainstream SWE roles.[^4][^2]
-- Student discussions point out that a non‑trivial number of offers are still in the **₹4–6 LPA** range in some branches/roles, reflecting the long tail that is often hidden by headline averages.[^5]
+- IIT Kharagpur’s highest packages in recent years have frequently exceeded **₹2 crore CTC**, though these are rare, specialized offers (often quant/HFT or top international roles).<sup>[<a href="#ref-2">2</a>, <a href="#ref-3">3</a>, <a href="#ref-4">4</a>, <a href="#ref-1">1</a>]</sup>
+- The **median package for 4‑year UG** programs has been in the high‑teens to mid‑20s LPA (₹18–24 LPA) in 2022–23, which aligns with your core "₹20–28 LPA" bands for mainstream SWE roles.<sup>[<a href="#ref-4">4</a>, <a href="#ref-2">2</a>]</sup>
+- Student discussions point out that a non‑trivial number of offers are still in the **₹4–6 LPA** range in some branches/roles, reflecting the long tail that is often hidden by headline averages.<sup>[<a href="#ref-5">5</a>]</sup>
 
 ### 7.2 Timing of recruitment
 
-The broad timeline in your original framework is consistent with observed patterns across IITs:[^12][^9]
+The broad timeline in your original framework is consistent with observed patterns across IITs:<sup>[<a href="#ref-12">12</a>, <a href="#ref-9">9</a>]</sup>
 
-- **July–August**: Internship interviews (ML/research‑heavy, pre‑placement offers later).[^12]
-- **September–October**: Early placement drive, PPO confirmations, first wave of full‑time roles.[^9]
-- **October–November**: Peak hiring season; majority of Day‑1/Day‑2 companies visit in this window.[^9]
+- **July–August**: Internship interviews (ML/research‑heavy, pre‑placement offers later).<sup>[<a href="#ref-12">12</a>]</sup>
+- **September–October**: Early placement drive, PPO confirmations, first wave of full‑time roles.<sup>[<a href="#ref-9">9</a>]</sup>
+- **October–November**: Peak hiring season; majority of Day‑1/Day‑2 companies visit in this window.<sup>[<a href="#ref-9">9</a>]</sup>
 - **December–February**: Late‑season and off‑campus hiring; super‑senior or second‑chance opportunities.
 
 
@@ -583,13 +583,13 @@ These roadmaps integrate your time‑based plans with realistic expectations giv
 
 - **Realistic outcome**: SWE/DA/QA at mid‑tier firms; aim for roles whose eligibility you meet with your current CGPA.
 - **Focus**: DSA up to Tier 2, SQL up to Tier 2, core aptitude. De‑prioritize heavy system design, advanced ML/research, or quant.
-- **Target package band**: ₹16–20 LPA on campus is reasonable for strong execution in this window; more is possible but should be treated as upside.[^2]
+- **Target package band**: ₹16–20 LPA on campus is reasonable for strong execution in this window; more is possible but should be treated as upside.<sup>[<a href="#ref-2">2</a>]</sup>
 
 ### 8.2 If you have 4–6 months (Standard Mode)
 
 - **Realistic outcome**: Mainstream SWE, DA, BA, QA, some DevOps roles.
 - **Focus**: DSA Tier 2–3, SQL mastery, basic system design, then branch into your chosen X component.
-- **Target package band**: ₹20–26 LPA realistic range for well‑prepared candidates across branches.[^4][^2]
+- **Target package band**: ₹20–26 LPA realistic range for well‑prepared candidates across branches.<sup>[<a href="#ref-4">4</a>, <a href="#ref-2">2</a>]</sup>
 
 ### 8.3 If you have 6–8 months (Optimal Mode)
 
@@ -631,7 +631,7 @@ The key idea is that **role‑specific expertise sits on top of solid fundamenta
 ## 10. Universal Success Factors (KGP‑Oriented)
 
 - **Fundamentals first**: Aim for at least Tier 2 in DSA and SQL, plus Tier 1 PnS and aptitude.
-- **CGPA hygiene**: For KGP, try to stabilize at or above **8.0 CGPA** if you are targeting Tier‑1 software/ML/analytics roles and **8.5+** for serious quant ambitions.[^8]
+- **CGPA hygiene**: For KGP, try to stabilize at or above **8.0 CGPA** if you are targeting Tier‑1 software/ML/analytics roles and **8.5+** for serious quant ambitions.<sup>[<a href="#ref-8">8</a>]</sup>
 - **Projects**: 2–3 well‑built, end‑to‑end projects carry more weight than a long list of half‑finished repos.
 - **Mocks**: 10–15 mocks (coding + system design + HR) before Day 1/2 strongly reduce variance.
 - **Company research**: Track at least 10 key companies’ tech stacks, interview styles, and past patterns.
@@ -639,41 +639,41 @@ The key idea is that **role‑specific expertise sits on top of solid fundamenta
 
 ## 11. Community‑Driven Resources (DSA, ML, System Design, Product)
 
-This section curates resources that are repeatedly recommended by IIT KGP students and wider Reddit / X / YouTube communities. Treat it as a **menu**; pick 1–2 per category and go deep instead of hoarding links.[^13][^14][^15][^16][^17][^18][^19][^20][^21]
+This section curates resources that are repeatedly recommended by IIT KGP students and wider Reddit / X / YouTube communities. Treat it as a **menu**; pick 1–2 per category and go deep instead of hoarding links.<sup>[<a href="#ref-13">13</a>, <a href="#ref-14">14</a>, <a href="#ref-15">15</a>, <a href="#ref-16">16</a>, <a href="#ref-17">17</a>, <a href="#ref-18">18</a>, <a href="#ref-19">19</a>, <a href="#ref-20">20</a>, <a href="#ref-21">21</a>]</sup>
 
 ### 11.1 DSA & Competitive Programming
 
 **Structured roadmaps**
 
 - **Striver A2Z + SDE Sheet (takeUforward)**  
-  Widely cited as the most structured free roadmap for going from basics to interview‑level DSA; many KGP and non‑KGP students follow A2Z for fundamentals and then the SDE sheet for refinement.[^18][^13]
+  Widely cited as the most structured free roadmap for going from basics to interview‑level DSA; many KGP and non‑KGP students follow A2Z for fundamentals and then the SDE sheet for refinement.<sup>[<a href="#ref-18">18</a>, <a href="#ref-13">13</a>]</sup>
 - **AlgoZenith (AZ Premium / cohorts)**  
-  Frequently praised by KGP students for depth and contest‑style assignments; best suited for those who already know DSA basics and want to push towards Codeforces Expert or strong CP levels.[^14][^22][^17][^19][^20][^21][^18]
+  Frequently praised by KGP students for depth and contest‑style assignments; best suited for those who already know DSA basics and want to push towards Codeforces Expert or strong CP levels.<sup>[<a href="#ref-14">14</a>, <a href="#ref-22">22</a>, <a href="#ref-17">17</a>, <a href="#ref-19">19</a>, <a href="#ref-20">20</a>, <a href="#ref-21">21</a>, <a href="#ref-18">18</a>]</sup>
   Community feedback highlights:
-  - Excellent advanced coverage and structured 6‑month roadmap targeting internships/placements.[^17][^19]
-  - Not ideal for absolute beginners; you should know basic DSA/CP concepts first.[^22][^19][^21][^14]
-  - Considered somewhat expensive but many seniors report good outcomes when they followed it seriously.[^22][^18]
+  - Excellent advanced coverage and structured 6‑month roadmap targeting internships/placements.<sup>[<a href="#ref-17">17</a>, <a href="#ref-19">19</a>]</sup>
+  - Not ideal for absolute beginners; you should know basic DSA/CP concepts first.<sup>[<a href="#ref-22">22</a>, <a href="#ref-19">19</a>, <a href="#ref-21">21</a>, <a href="#ref-14">14</a>]</sup>
+  - Considered somewhat expensive but many seniors report good outcomes when they followed it seriously.<sup>[<a href="#ref-22">22</a>, <a href="#ref-18">18</a>]</sup>
 
 **Practice platforms**
 
 - **LeetCode**: For company‑tagged interview problems and blind‑75 style lists.
-- **Codeforces / AtCoder**: For improving speed and problem‑solving depth; repeatedly mentioned on r/iitkgp and r/cscareerquestions as the best way to build CP muscle.[^18][^22]
-- **CSES / SPOJ**: For classic problem sets once basics are clear; often recommended as supplement to paid courses like AlgoZenith.[^22]
+- **Codeforces / AtCoder**: For improving speed and problem‑solving depth; repeatedly mentioned on r/iitkgp and r/cscareerquestions as the best way to build CP muscle.<sup>[<a href="#ref-18">18</a>, <a href="#ref-22">22</a>]</sup>
+- **CSES / SPOJ**: For classic problem sets once basics are clear; often recommended as supplement to paid courses like AlgoZenith.<sup>[<a href="#ref-22">22</a>]</sup>
 
 ### 11.2 Machine Learning & Data Science
 
 **Core course sequence (theory + practice)**
 
 - **Andrew Ng – Machine Learning (Coursera)**  
-  Still the default “first ML course” globally; community consensus is that it gives strong mathematical intuition and gentle introduction to core supervised/unsupervised methods.[^23]
+  Still the default “first ML course” globally; community consensus is that it gives strong mathematical intuition and gentle introduction to core supervised/unsupervised methods.<sup>[<a href="#ref-23">23</a>]</sup>
 - **CampusX – 100 Days of Machine Learning / DSMP playlists**  
-  Strongly recommended in Indian ML circles and on r/learnmachinelearning for practical, code‑heavy coverage; the 100‑day playlist (~60+ hours) is frequently cited as a solid path for both beginners and intermediate learners.[^15][^16]
-  - Community notes that CampusX is especially good if you need structured, project‑oriented learning and can commit time; longer in duration but very explanatory.[^16][^15]
+  Strongly recommended in Indian ML circles and on r/learnmachinelearning for practical, code‑heavy coverage; the 100‑day playlist (~60+ hours) is frequently cited as a solid path for both beginners and intermediate learners.<sup>[<a href="#ref-15">15</a>, <a href="#ref-16">16</a>]</sup>
+  - Community notes that CampusX is especially good if you need structured, project‑oriented learning and can commit time; longer in duration but very explanatory.<sup>[<a href="#ref-16">16</a>, <a href="#ref-15">15</a>]</sup>
 
 **Books and applied references**
 
 - **Hands‑On Machine Learning with Scikit‑Learn, Keras & TensorFlow (Aurélien Géron)**  
-  Recommended by multiple Reddit users as a bridge from theory to implementation‑first understanding; focus on “code heavy parts” to see how real pipelines evolve.[^15]
+  Recommended by multiple Reddit users as a bridge from theory to implementation‑first understanding; focus on “code heavy parts” to see how real pipelines evolve.<sup>[<a href="#ref-15">15</a>]</sup>
 
 **Practice / project ecosystems**
 
@@ -705,7 +705,7 @@ This section curates resources that are repeatedly recommended by IIT KGP studen
 
 Since resources and courses change quality over time, lean on communities to keep your personal list updated:
 
-- **Subreddits**: r/iitkgp, r/cscareerquestions, r/leetcode, r/learnmachinelearning – useful for honest reviews of courses like AlgoZenith, CampusX, and new ML/DS offerings.[^19][^20][^21][^13][^14][^17][^15][^18][^22]
+- **Subreddits**: r/iitkgp, r/cscareerquestions, r/leetcode, r/learnmachinelearning – useful for honest reviews of courses like AlgoZenith, CampusX, and new ML/DS offerings.<sup>[<a href="#ref-19">19</a>, <a href="#ref-20">20</a>, <a href="#ref-21">21</a>, <a href="#ref-13">13</a>, <a href="#ref-14">14</a>, <a href="#ref-17">17</a>, <a href="#ref-15">15</a>, <a href="#ref-18">18</a>, <a href="#ref-22">22</a>]</sup>
 - **Discord / Telegram groups**: Many DSA/ML communities run daily problem discussions, mock interviews, and accountability channels.
 - **X (Twitter)**: Following engineers and researchers from top companies/labs often surfaces new, high‑quality blogs, papers, and courses early.
 
@@ -732,49 +732,144 @@ The objective is not to memorize every solution, but to **build the thinking mus
 
 ## References
 
-1. [IIT Kharagpur Placements 2025-2026: Phase 1 Records Highest ...](https://collegehai.com/news/iit-kharagpur-placements-2025-2026) - IIT Kharagpur Placements 2025–2026 Phase 1 recorded a highest CTC of INR 2.44 crore. Check placement...
 
-2. [IIT Kharagpur Placements 2026: Highest Package, Average Salary ...](https://studyriserr.com/college/72-iit-kharagpur/placement) - IIT Kharagpur placement 2025 recorded the highest package so far of INR 2.1 Crore. Out of 1000 job o...
+<a id="ref-1" class="ref-anchor"></a>
 
-3. [IIT Kharagpur sets new placement record with 1,800 offers - LinkedIn](https://www.linkedin.com/posts/indian-institute-of-technology-kharagpur_iitkharagpur-iitkgp-placements2025-activity-7338905230350217216-XtH3) - Tech degree wise and 5 year B.Tech + M.Tech dual degree wise, percentage of unplaced students, media...
+**[1]** [IIT Kharagpur Placements 2025-2026: Phase 1 Records Highest ...](https://collegehai.com/news/iit-kharagpur-placements-2025-2026) - IIT Kharagpur Placements 2025–2026 Phase 1 recorded a highest CTC of INR 2.44 crore. Check placement...
 
-4. [IIT Placements - Average & Highest CTC, Top Companies - iQuanta](https://www.iquanta.in/blog/iit-placements/) - IIT Kharagpur Engineering Graduate gained a salary package of Rs. 2.68 crore. 2. What is the average...
 
-5. [IIT KGP(Kharagpur) Placement Stats 2023-24 : r/Btechtards - Reddit](https://www.reddit.com/r/Btechtards/comments/1djdf9v/iit_kgpkharagpur_placement_stats_202324/) - From what I have seen in some news articles, quite a number of people from IIT KGP Grads this year w...
+<a id="ref-2" class="ref-anchor"></a>
 
-6. [5 to 5.9 Someone: IIT Kharagpur introduces BTech Pass degree to ...](https://www.educationtimes.com/article/campus-beat-college-life/99740562/5-to-5-9-someone-iit-kharagpur-introduces-btech-pass-degree-to-help-students-in-career-progression) - As per the earlier rule, 6.0 CGPA out of 10 was the minimum score required for a BTech (Honours) deg...
+**[2]** [IIT Kharagpur Placements 2026: Highest Package, Average Salary ...](https://studyriserr.com/college/72-iit-kharagpur/placement) - IIT Kharagpur placement 2025 recorded the highest package so far of INR 2.1 Crore. Out of 1000 job o...
 
-7. [How much CGPA is Enough for Engineering? Eligibility ... - YouTube](https://www.youtube.com/watch?v=McAC2H8a7ZU) - How much CGPA is Enough for Engineering? Eligibility Criteria for Placements for Tier 3 Colleges. 1....
 
-8. [CGPA required to get top CDC internship : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1ayp6iv/cgpa_required_to_get_top_cdc_internship/) - what would be the minimum cgpa to be eligible for internships, and for placements, I'm a 4th semeste...
+<a id="ref-3" class="ref-anchor"></a>
 
-9. [IIT Placements 2023-24 Day 1 and 2: Top recruiters, highest salary ...](https://www.collegedekho.com/news/iit-placements-2023-24-day-1-and-2-top-recruiters-highest-salary-details-47863/) - The average salary offered to the IIT Bombay students is Rs 60-80 Lakh; 6 students from IIT Kharagpu...
+**[3]** [IIT Kharagpur sets new placement record with 1,800 offers - LinkedIn](https://www.linkedin.com/posts/indian-institute-of-technology-kharagpur_iitkharagpur-iitkgp-placements2025-activity-7338905230350217216-XtH3) - Tech degree wise and 5 year B.Tech + M.Tech dual degree wise, percentage of unplaced students, media...
 
-10. [[PDF] FINAL PLACEMENT REPORT - IIT Kharagpur](https://som.iitkgp.ac.in/pdf/VGSoM_Final_Placement_Report_2021-23.pdf) - offered diverse roles like Data Science Analyst,. Assistant Project Manager, Senior Associate. Manag...
 
-11. [IIT Kharagpur Placements 2026: Highest Package, Average ...](https://www.shiksha.com/college/iit-kharagpur-indian-institute-of-technology-2999/placement) - According to media reports, 5 students have bagged salary package above INR 2 Crore per annum during...
+<a id="ref-4" class="ref-anchor"></a>
 
-12. [IIT Placements 2025: Average Package, Top Recruiters & CTC](https://propelld.com/site/blog/iit-placements) - For the 2023-24 placements, the median salary offered was Rs 21.6 LPA, with the highest package for ...
+**[4]** [IIT Placements - Average & Highest CTC, Top Companies - iQuanta](https://www.iquanta.in/blog/iit-placements/) - IIT Kharagpur Engineering Graduate gained a salary package of Rs. 2.68 crore. 2. What is the average...
 
-13. [Looking for suggestions on my DSA prep strategy (Striver A2Z + ...](https://www.reddit.com/r/leetcode/comments/1n23nco/looking_for_suggestions_on_my_dsa_prep_strategy/) - I've been trying to structure my DSA prep and here's the plan I came up with: I copy all the questio...
 
-14. [algozenith premium : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1ptlafq/algozenith_premium/) - Overall the best course I've seen. All advanced topics covered and the way of teaching is amazing.
+<a id="ref-5" class="ref-anchor"></a>
 
-15. [Is CampusX good for someone with strong ML background but ...](https://www.reddit.com/r/learnmachinelearning/comments/1lqnjpr/is_campusx_good_for_someone_with_strong_ml/) - I found the CampusX courses (especially the data science and deep learning ones), but I noticed the ...
+**[5]** [IIT KGP(Kharagpur) Placement Stats 2023-24 : r/Btechtards - Reddit](https://www.reddit.com/r/Btechtards/comments/1djdf9v/iit_kgpkharagpur_placement_stats_202324/) - From what I have seen in some news articles, quite a number of people from IIT KGP Grads this year w...
 
-16. [Krish Naik's Post - LinkedIn](https://www.linkedin.com/posts/naikkrish_a-quick-shoutout-to-nitish-singh-campusx-activity-7219042083418857472-JBOJ) - After following CampusX deep learning playlist religiously for the past month, I can confidently say...
 
-17. [Algozenith course : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1q6mmyq/algozenith_course/) - It is really good course for someone who is targeting intern or placement as those 6 months would be...
+<a id="ref-6" class="ref-anchor"></a>
 
-18. [Hey I am looking to buy Algozenith Course ? Should I go for it , I do ...](https://www.reddit.com/r/iitkgp/comments/1h9mvet/hey_i_am_looking_to_buy_algozenith_course_should/) - These courses are good for starting to learn. However, to excel, you need to explore as much as poss...
+**[6]** [5 to 5.9 Someone: IIT Kharagpur introduces BTech Pass degree to ...](https://www.educationtimes.com/article/campus-beat-college-life/99740562/5-to-5-9-someone-iit-kharagpur-introduces-btech-pass-degree-to-help-students-in-career-progression) - As per the earlier rule, 6.0 CGPA out of 10 was the minimum score required for a BTech (Honours) deg...
 
-19. [Reviews on algozenith : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1kuvkp2/reviews_on_algozenith/) - Algozenith is really good imo... atleast, I've found them to be pretty useful, provided you're atten...
 
-20. [Is Algozenith worth it ? : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1r4ew59/is_algozenith_worth_it/) - My questions are: How beneficial it would be for me since; I have already completed striver sheet? a...
+<a id="ref-7" class="ref-anchor"></a>
 
-21. [Can someone give an honest review about Algozenith premium](https://www.reddit.com/r/iitkgp/comments/1rd9ggt/can_someone_give_an_honest_review_about/) - if you are absolute beginner then You can take it. but if you are someone who does enough CP, Leetco...
+**[7]** [How much CGPA is Enough for Engineering? Eligibility ... - YouTube](https://www.youtube.com/watch?v=McAC2H8a7ZU) - How much CGPA is Enough for Engineering? Eligibility Criteria for Placements for Tier 3 Colleges. 1....
 
-22. [Algozenith : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1g3hy88/algozenith/) - Anyone who actually brought Algozenith course and yielded benefit from it. If so, which course did y...
 
-23. [Top 10 Best Machine Learning Courses to Become Job Ready (2026)](https://www.logicmojo.com/best-machine-learning-courses-to-become-job-ready) - The curriculum covers Python, statistics, classical ML, feature engineering, deep learning, NLP, and...
+<a id="ref-8" class="ref-anchor"></a>
 
+**[8]** [CGPA required to get top CDC internship : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1ayp6iv/cgpa_required_to_get_top_cdc_internship/) - what would be the minimum cgpa to be eligible for internships, and for placements, I'm a 4th semeste...
+
+
+<a id="ref-9" class="ref-anchor"></a>
+
+**[9]** [IIT Placements 2023-24 Day 1 and 2: Top recruiters, highest salary ...](https://www.collegedekho.com/news/iit-placements-2023-24-day-1-and-2-top-recruiters-highest-salary-details-47863/) - The average salary offered to the IIT Bombay students is Rs 60-80 Lakh; 6 students from IIT Kharagpu...
+
+
+<a id="ref-10" class="ref-anchor"></a>
+
+**[10]** [[PDF] FINAL PLACEMENT REPORT - IIT Kharagpur](https://som.iitkgp.ac.in/pdf/VGSoM_Final_Placement_Report_2021-23.pdf) - offered diverse roles like Data Science Analyst,. Assistant Project Manager, Senior Associate. Manag...
+
+
+<a id="ref-11" class="ref-anchor"></a>
+
+**[11]** [IIT Kharagpur Placements 2026: Highest Package, Average ...](https://www.shiksha.com/college/iit-kharagpur-indian-institute-of-technology-2999/placement) - According to media reports, 5 students have bagged salary package above INR 2 Crore per annum during...
+
+
+<a id="ref-12" class="ref-anchor"></a>
+
+**[12]** [IIT Placements 2025: Average Package, Top Recruiters & CTC](https://propelld.com/site/blog/iit-placements) - For the 2023-24 placements, the median salary offered was Rs 21.6 LPA, with the highest package for ...
+
+
+<a id="ref-13" class="ref-anchor"></a>
+
+**[13]** [Looking for suggestions on my DSA prep strategy (Striver A2Z + ...](https://www.reddit.com/r/leetcode/comments/1n23nco/looking_for_suggestions_on_my_dsa_prep_strategy/) - I've been trying to structure my DSA prep and here's the plan I came up with: I copy all the questio...
+
+
+<a id="ref-14" class="ref-anchor"></a>
+
+**[14]** [algozenith premium : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1ptlafq/algozenith_premium/) - Overall the best course I've seen. All advanced topics covered and the way of teaching is amazing.
+
+
+<a id="ref-15" class="ref-anchor"></a>
+
+**[15]** [Is CampusX good for someone with strong ML background but ...](https://www.reddit.com/r/learnmachinelearning/comments/1lqnjpr/is_campusx_good_for_someone_with_strong_ml/) - I found the CampusX courses (especially the data science and deep learning ones), but I noticed the ...
+
+
+<a id="ref-16" class="ref-anchor"></a>
+
+**[16]** [Krish Naik's Post - LinkedIn](https://www.linkedin.com/posts/naikkrish_a-quick-shoutout-to-nitish-singh-campusx-activity-7219042083418857472-JBOJ) - After following CampusX deep learning playlist religiously for the past month, I can confidently say...
+
+
+<a id="ref-17" class="ref-anchor"></a>
+
+**[17]** [Algozenith course : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1q6mmyq/algozenith_course/) - It is really good course for someone who is targeting intern or placement as those 6 months would be...
+
+
+<a id="ref-18" class="ref-anchor"></a>
+
+**[18]** [Hey I am looking to buy Algozenith Course ? Should I go for it , I do ...](https://www.reddit.com/r/iitkgp/comments/1h9mvet/hey_i_am_looking_to_buy_algozenith_course_should/) - These courses are good for starting to learn. However, to excel, you need to explore as much as poss...
+
+
+<a id="ref-19" class="ref-anchor"></a>
+
+**[19]** [Reviews on algozenith : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1kuvkp2/reviews_on_algozenith/) - Algozenith is really good imo... atleast, I've found them to be pretty useful, provided you're atten...
+
+
+<a id="ref-20" class="ref-anchor"></a>
+
+**[20]** [Is Algozenith worth it ? : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1r4ew59/is_algozenith_worth_it/) - My questions are: How beneficial it would be for me since; I have already completed striver sheet? a...
+
+
+<a id="ref-21" class="ref-anchor"></a>
+
+**[21]** [Can someone give an honest review about Algozenith premium](https://www.reddit.com/r/iitkgp/comments/1rd9ggt/can_someone_give_an_honest_review_about/) - if you are absolute beginner then You can take it. but if you are someone who does enough CP, Leetco...
+
+
+<a id="ref-22" class="ref-anchor"></a>
+
+**[22]** [Algozenith : r/iitkgp - Reddit](https://www.reddit.com/r/iitkgp/comments/1g3hy88/algozenith/) - Anyone who actually brought Algozenith course and yielded benefit from it. If so, which course did y...
+
+
+<a id="ref-23" class="ref-anchor"></a>
+
+**[23]** [Top 10 Best Machine Learning Courses to Become Job Ready (2026)](https://www.logicmojo.com/best-machine-learning-courses-to-become-job-ready) - The curriculum covers Python, statistics, classical ML, feature engineering, deep learning, NLP, and...
+
+
+
+
+---
+
+<button id="dark-mode-toggle" title="Toggle Dark Mode">🌓</button>
+
+<script>
+  const toggle = document.getElementById('dark-mode-toggle');
+  
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const storedPref = localStorage.getItem('dark-mode');
+  
+  if (storedPref === 'enabled' || (storedPref === null && prefersDark)) {
+    document.body.classList.add('dark-mode');
+  }
+
+  toggle.addEventListener('click', () => {
+    document.body.classList.toggle('dark-mode');
+    if (document.body.classList.contains('dark-mode')) {
+      localStorage.setItem('dark-mode', 'enabled');
+    } else {
+      localStorage.setItem('dark-mode', 'disabled');
+    }
+  });
+</script>
