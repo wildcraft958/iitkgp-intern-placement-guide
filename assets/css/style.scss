@@ -5,10 +5,12 @@
 
 /* Adaptive & Responsive Width Improvements */
 .main-content {
-  max-width: 1200px; /* Increased from default for better readability on large screens */
+  width: calc(100% - 40px);
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 2rem 4rem;
+  padding: 2rem clamp(1rem, 5vw, 4rem);
 }
+
 
 @media screen and (max-width: 1024px) {
   .main-content {

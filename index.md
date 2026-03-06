@@ -744,6 +744,23 @@ This guide is a living document. We need your help to make it the definitive res
 > **Have materials or experience to share?**
 > Please [Open an Issue](https://github.com/wildcraft958/iitkgp-intern-placement-guide/issues) on GitHub to contribute resources, report data corrections, or request new features. Let's build this together!
 
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'base',
+    themeVariables: {
+      primaryColor: '#1f2335',
+      primaryTextColor: '#c0caf5',
+      primaryBorderColor: '#3b4261',
+      lineColor: '#7aa2f7',
+      secondaryColor: '#24283b',
+      tertiaryColor: '#1a1b26'
+    }
+  });
+</script>
+
+
 ---
 
 ## References
