@@ -1,96 +1,111 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    <link rel="icon" type="image/svg+xml" href="{{ "/assets/favicon.svg" | relative_url }}">
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <button id="dark-mode-toggle" title="Toggle Dark Mode">🌓</button>
+  <link rel="icon" type="image/svg+xml" href="{{ "/assets/favicon.svg" | relative_url }}">
+  {% include head-custom.html %}
+</head>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+<body>
+  <button id="dark-mode-toggle" title="Toggle Dark Mode">🌓</button>
 
-      <!-- Specialized Role Deep-Dives Header Section -->
-      <div class="header-roles" style="text-align: left;">
-        <h3>13. Specialized Role Deep-Dives (Coming Soon)</h3>
-        <p>We are building detailed, branch-specific and role-specific guides including curated resources, past interview experiences, and mock schedules for:</p>
-        <ul style="margin-bottom: 1.5rem; line-height: 1.8;">
-          <li><a href="#">🚀 Software Engineering (SWE) — Coming Soon</a></li>
-          <li><a href="#">🧠 AI / Machine Learning — Coming Soon</a></li>
-          <li><a href="#">📊 Data Analytics & Science — Coming Soon</a></li>
-          <li><a href="#">💼 Management Consulting & BA — Coming Soon</a></li>
-          <li><a href="#">💡 Product Management — Coming Soon</a></li>
-          <li><a href="#">⚙️ Core Engineering (Mech/Elec/Civil/etc) — Coming Soon</a></li>
-        </ul>
+  <header class="page-header" role="banner">
+    <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <h3>14. Support the Community</h3>
-        <p>This guide is a living document. We need your help to make it the definitive resource for every KGPian.</p>
-        
-        <blockquote style="padding: 1rem; border-left: 4px solid #bb9af7; background: rgba(0,0,0,0.05); border-radius: 4px; margin-top: 1rem;">
-          <strong style="color: #ff9e64;">[!IMPORTANT] Have materials or experience to share?</strong><br>
-          Please <a href="https://github.com/wildcraft958/iitkgp-intern-placement-guide/issues" style="text-decoration: underline;">Open an Issue</a> on GitHub to contribute resources, report data corrections, or request new features. Let’s build this together!
-        </blockquote>
-      </div>
+    <!-- Specialized Role Deep-Dives Header Section -->
+    <div class="header-roles" style="text-align: left;">
+      <h3>Specialized Role Deep-Dives (Coming Soon)</h3>
+      <p>We are building detailed, branch-specific and role-specific guides including curated resources, past interview
+        experiences, and mock schedules for:</p>
+      <ul class="role-list">
+        <li>🚀 <a href="#" class="role-list-link">Software Engineering (SWE)</a> <span class="coming-soon-text">— Coming
+            Soon</span></li>
+        <li>🧠 <a href="#" class="role-list-link">AI / Machine Learning</a> <span class="coming-soon-text">— Coming
+            Soon</span></li>
+        <li>📊 <a href="#" class="role-list-link">Data Analytics & Science</a> <span class="coming-soon-text">— Coming
+            Soon</span></li>
+        <li>💼 <a href="#" class="role-list-link">Management Consulting & BA</a> <span class="coming-soon-text">— Coming
+            Soon</span></li>
+        <li>💡 <a href="#" class="role-list-link">Product Management</a> <span class="coming-soon-text">— Coming
+            Soon</span></li>
+        <li>⚙️ <a href="#" class="role-list-link">Core Engineering (Mech/Elec/Civil/etc)</a> <span
+            class="coming-soon-text">— Coming Soon</span></li>
+      </ul>
 
+      <h3>Support the Community</h3>
+      <p>This guide is a living document. We need your help to make it the definitive resource for every KGPian.</p>
+
+      <blockquote
+        style="padding: 1rem; border-left: 4px solid #bb9af7; background: rgba(0,0,0,0.05); border-radius: 4px; margin-top: 1rem;">
+        <strong style="color: #ff9e64;">[!IMPORTANT] Have materials or experience to share?</strong><br>
+        Please <a href="https://github.com/wildcraft958/iitkgp-intern-placement-guide/issues"
+          style="text-decoration: underline;">Open an Issue</a> on GitHub to contribute resources, report data
+        corrections, or request new features. Let’s build this together!
+      </blockquote>
+    </div>
+
+    {% if site.github.is_project_page %}
+    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+    {% endif %}
+    {% if site.show_downloads %}
+    <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+    <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+    {% endif %}
+  </header>
+
+  <main id="content" class="main-content" role="main">
+    {{ content }}
+
+    <footer class="site-footer">
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a>
+        is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
       {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-    </header>
+      <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub
+          Pages</a>.</span>
+    </footer>
+  </main>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+  <script>
+    const toggle = document.getElementById('dark-mode-toggle');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const storedPref = localStorage.getItem('dark-mode');
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
+    if (storedPref === 'enabled' || (storedPref === null && prefersDark)) {
+      document.body.classList.add('dark-mode');
+    }
 
-    <script>
-      const toggle = document.getElementById('dark-mode-toggle');
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      const storedPref = localStorage.getItem('dark-mode');
-      
-      if (storedPref === 'enabled' || (storedPref === null && prefersDark)) {
-        document.body.classList.add('dark-mode');
+    toggle.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+      localStorage.setItem('dark-mode', document.body.classList.contains('dark-mode') ? 'enabled' : 'disabled');
+    });
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('dark-mode') ? 'dark' : 'base',
+      themeVariables: {
+        primaryColor: '#1f2335',
+        primaryTextColor: '#c0caf5',
+        primaryBorderColor: '#3b4261',
+        lineColor: '#7aa2f7',
+        secondaryColor: '#24283b',
+        tertiaryColor: '#1a1b26'
       }
+    });
+  </script>
+</body>
 
-      toggle.addEventListener('click', () => {
-        document.body.classList.toggle('dark-mode');
-        localStorage.setItem('dark-mode', document.body.classList.contains('dark-mode') ? 'enabled' : 'disabled');
-      });
-    </script>
-
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <script>
-      mermaid.initialize({
-        startOnLoad: true,
-        theme: document.body.classList.contains('dark-mode') ? 'dark' : 'base',
-        themeVariables: {
-          primaryColor: '#1f2335',
-          primaryTextColor: '#c0caf5',
-          primaryBorderColor: '#3b4261',
-          lineColor: '#7aa2f7',
-          secondaryColor: '#24283b',
-          tertiaryColor: '#1a1b26'
-        }
-      });
-    </script>
-  </body>
 </html>

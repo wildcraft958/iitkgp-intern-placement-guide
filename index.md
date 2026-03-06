@@ -734,7 +734,7 @@ This comprehensive placement guide is an initiative taken by:
 - **Monika Kumari**, 3rd Year UG, Mining Engineering
 
 **Why we built this:**  
-Navigating placements at IIT Kharagpur can be incredibly overwhelming, with fragmented information scattered across seniors, random group chats, and outdated websites. We realized that our campus community—especially the juniors—needed a single, reliable, and continuously updated source of truth. This guide is built to democratize placement preparation so that every KGPian, regardless of their branch or immediate peer group, has a clear roadmap to success. 
+Navigating placements at IIT Kharagpur can be incredibly overwhelming, with fragmented information scattered across seniors, random group chats, and outdated websites. We realized that our campus community-especially the juniors-needed a single, reliable, and continuously updated source of truth. This guide is built to democratize placement preparation so that every KGPian, regardless of their branch or immediate peer group, has a clear roadmap to success. 
 
 ---
 
