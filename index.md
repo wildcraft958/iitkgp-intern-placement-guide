@@ -725,42 +725,6 @@ By two weeks before your first interview:
 
 The objective is not to memorize every solution, but to **build the thinking muscle** so that new problems and case prompts feel familiar rather than alien.
 
-## 13. Specialized Role Deep-Dives (Coming Soon)
-
-We are building detailed, branch-specific and role-specific guides including curated resources, past interview experiences, and mock schedules for:
-
-*   [🚀 Software Engineering (SWE)](javascript:void(0)) — *Coming Soon*
-*   [🧠 AI / Machine Learning](javascript:void(0)) — *Coming Soon*
-*   [📊 Data Analytics & Science](javascript:void(0)) — *Coming Soon*
-*   [💼 Management Consulting & BA](javascript:void(0)) — *Coming Soon*
-*   [💡 Product Management](javascript:void(0)) — *Coming Soon*
-*   [⚙️ Core Engineering (Mech/Elec/Civil/etc)](javascript:void(0)) — *Coming Soon*
-
-## 14. Support the Community
-
-This guide is a living document. We need your help to make it the definitive resource for every KGPian. 
-
-> [!IMPORTANT]
-> **Have materials or experience to share?**
-> Please [Open an Issue](https://github.com/wildcraft958/iitkgp-intern-placement-guide/issues) on GitHub to contribute resources, report data corrections, or request new features. Let's build this together!
-
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<script>
-  mermaid.initialize({
-    startOnLoad: true,
-    theme: 'base',
-    themeVariables: {
-      primaryColor: '#1f2335',
-      primaryTextColor: '#c0caf5',
-      primaryBorderColor: '#3b4261',
-      lineColor: '#7aa2f7',
-      secondaryColor: '#24283b',
-      tertiaryColor: '#1a1b26'
-    }
-  });
-</script>
-
-
 ---
 
 ## References
