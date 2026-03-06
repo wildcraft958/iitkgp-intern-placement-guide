@@ -606,9 +606,21 @@ These roadmaps integrate your time‑based plans with realistic expectations giv
 
 ## 9. Holistic Skill Development Pyramid
 
-<div style="text-align: center; margin: 2rem 0;">
-  <img src="assets/skill_pyramid.png" alt="9. Holistic Skill Development Pyramid" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-</div>
+```mermaid
+graph TD
+    subgraph " "
+    A["<b>Role-Specific Expertise (20%)</b><br/>ML/DL/RL/Research, System Design,<br/>MLOps, Quant Math, Finance/Domain"]
+    B["<b>Core Competencies (60%)</b><br/>DSA (Tier 2+), SQL (Tier 2+),<br/>Aptitude, PnS (Prob & Stats)"]
+    C["<b>Foundation Skills (20%)</b><br/>Math, Logic, Communication,<br/>Problem-solving, Critical thinking"]
+    
+    A --- B
+    B --- C
+    end
+
+    style A fill:#bb9af7,stroke:#3b4261,color:#fff
+    style B fill:#7aa2f7,stroke:#3b4261,color:#fff
+    style C fill:#9ece6a,stroke:#3b4261,color:#fff
+```
 
 The key idea is that **role‑specific expertise sits on top of solid fundamentals**; most KGP recruiters test the core layers far more than the top 20% except for highly specialized roles.
 
@@ -711,7 +723,9 @@ By two weeks before your first interview:
 - [ ] Have 5–10 STAR‑formatted behavioral stories ready.
 - [ ] Sleep schedule aligned with interview timings; basic physical and mental health managed.
 
-The objective is not to memorize every solution, but to **build ## 13. Specialized Role Deep-Dives (Coming Soon)
+The objective is not to memorize every solution, but to **build the thinking muscle** so that new problems and case prompts feel familiar rather than alien.
+
+## 13. Specialized Role Deep-Dives (Coming Soon)
 
 We are building detailed, branch-specific and role-specific guides including curated resources, past interview experiences, and mock schedules for:
 
