@@ -10,9 +10,10 @@
 }
 
 .main-content table {
-  display: table !important;
-  width: 100% !important;
-  overflow-x: visible !important;
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 @media screen and (max-width: 1024px) {
